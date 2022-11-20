@@ -13,7 +13,7 @@ This is a collection of my projects created while attending Brock University
 
 #### Age of Quests: Forests of Aldeon
 
-[Download](Games/University/Year 1/Age of Quests Forests of Aldeon/AgeofQuests_ForestsofAldeon.html)
+[Download](Games/University/Year_1/Age_of_Quests_Forests_of_Aldeon/AgeofQuests_ForestsofAldeon.html)
 
 #### Celestial Space Academy II
 
