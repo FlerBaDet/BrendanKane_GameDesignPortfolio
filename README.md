@@ -22,7 +22,7 @@ This is a collection of my projects created while attending Brock University
 ### Year ~ 2
 #### OEX
 
-https://youtu.be/xpPi_Loji1s
+https://www.youtube.com/watch?v=xpPi_Loji1s
 
 [Download](https://drive.google.com/file/d/1v5NFY_amigPQUnR0kRZgJcczjo6Z5Oul/view?usp=sharing)
 
