@@ -2,6 +2,8 @@
 ## Game Design Portfolio
 
 Welcome to my portfolio! Here is all of my work from University and where my own personal projects can be found.
+I have been making games since grade 9 in high school working from Batch to Turing and then on to Python.
+In highschool I participated in multiple GMTK Game Jams using the Unity engine, and now I am devolping Unity Projects through my program at Brock University.
 
 ## University
 This is a collection of my projects created while attending Brock University
@@ -39,4 +41,4 @@ Created by myself, forced to use only primitive shapes in Unity to create an eff
 Created by myself on the Unity Engine, textures are taken from the internet.
 In this project I learned how to design an environment, by working with Terrain, Trees, and Modeling. All modeling was done in 3DS Max.
 
-Download
+[Download](https://drive.google.com/file/d/1C4vSpTElvAfYI3k25afIcyBi7gmRQuNB/view?usp=sharing)
