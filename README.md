@@ -39,7 +39,7 @@ Created by myself, forced to use only primitive shapes in Unity to create an eff
 
 #### Klarisse's Keep
 Created by myself on the Unity Engine, textures are taken from the internet.
-In this project I learned how to design an environment, by working with Terrain, Trees, and Modeling. All modeling was done in 3DS Max.
+In this project I learned how to design an environment, by working with Terrain, Trees, and Modeling. All modeling was done in 3DS Max. Most of the code was provided by Niagara College, I created some of my own scripts/adjusted scripts to make them work for my project.
 
 [![WATCH](https://i9.ytimg.com/vi_webp/pX8qDFkjq6s/mq1.webp?sqp=CLi-x50G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChLMA8=&rs=AOn4CLBex3i6jtbOZ4xA1ujyrZwZa9hzsQ)](https://youtu.be/pX8qDFkjq6s)
 
