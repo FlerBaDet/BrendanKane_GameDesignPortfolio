@@ -45,4 +45,10 @@ In this project I learned how to design an environment, by working with Terrain,
 
 [Download](https://drive.google.com/file/d/1C4vSpTElvAfYI3k25afIcyBi7gmRQuNB/view?usp=sharing)
 
+## High School
+### Grade 11
+#### Celestial Space Academy
+Created by myself on the CMU Academy website for one of my Computer Science class projects, the game does not contain its original audio due to issues with the original sources and updates done to CMU, so I do not claim any of the replacement audio for this game as my own. This was my favourite game that came out of high school and i had so much fun developing it over the course of a month. This game taught me a lot about programming standards and set me up for success in University.
+
+[PLAY CSA](https://academy.cs.cmu.edu/sharing/oldLaceAnt0059)
 
