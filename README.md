@@ -50,9 +50,9 @@ In this project I learned how to design an environment, by working with Terrain,
 #### Celestial Space Academy
 Created by myself on the CMU Academy website for one of my Computer Science class projects, the game does not contain its original audio due to issues with the original sources and updates done to CMU, so I do not claim any of the replacement audio for this game as my own. This was my favourite game that came out of high school and i had so much fun developing it over the course of a month. This game taught me a lot about programming standards and set me up for success in University.
 
-![image](https://github.com/FlerBaDet/Game-Design-Portfolio/blob/main/Images/CSA-TITLE.PNG)
-![image](https://github.com/FlerBaDet/Game-Design-Portfolio/blob/main/Images/CSA-BTL.PNG)
-![image](https://github.com/FlerBaDet/Game-Design-Portfolio/blob/main/Images/CSA-BOSS.PNG)
+![image](https://raw.githubusercontent.com/FlerBaDet/Game-Design-Portfolio/main/Images/CSA-TITLE.PNG)
+![image](https://raw.githubusercontent.com/FlerBaDet/Game-Design-Portfolio/main/Images/CSA-BTL.PNG)
+![image](https://raw.githubusercontent.com/FlerBaDet/Game-Design-Portfolio/main/Images/CSA-BOSS.PNG)
 
 [PLAY CSA](https://academy.cs.cmu.edu/sharing/oldLaceAnt0059)
 
