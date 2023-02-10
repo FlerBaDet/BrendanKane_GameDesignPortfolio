@@ -53,5 +53,6 @@ Created by myself on the CMU Academy website for one of my Computer Science clas
 ![image](https://github.com/FlerBaDet/Game-Design-Portfolio/blob/main/Images/CSA-TITLE.PNG)
 ![image](https://github.com/FlerBaDet/Game-Design-Portfolio/blob/main/Images/CSA-BTL.PNG)
 ![image](https://github.com/FlerBaDet/Game-Design-Portfolio/blob/main/Images/CSA-BOSS.PNG)
+
 [PLAY CSA](https://academy.cs.cmu.edu/sharing/oldLaceAnt0059)
 
