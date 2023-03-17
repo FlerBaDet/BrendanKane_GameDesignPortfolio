@@ -45,6 +45,9 @@ In this project I learned how to design an environment, by working with Terrain,
 
 [Download](https://drive.google.com/file/d/1C4vSpTElvAfYI3k25afIcyBi7gmRQuNB/view?usp=sharing)
 
+#### Pop Up Prince
+This is an upcoming game in my second year here at Brock. It's a pop up story book themed platforming game, where you must traverse your way through a kingdom being invaded by ink.
+
 ## High School
 ### Grade 11
 #### Celestial Space Academy
