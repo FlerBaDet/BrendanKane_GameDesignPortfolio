@@ -1,61 +1,24 @@
 # BrendanKane
 ## Game Design Portfolio
 
-Welcome to my portfolio! Here is all of my work from University and where my own personal projects can be found.
-I have been making games since grade 9 in high school working from Batch to Turing and then on to Python.
-In highschool I participated in multiple GMTK Game Jams using the Unity engine, and now I am devolping Unity Projects through my program at Brock University.
+Welcome to my portfolio!
+Here you can find my most recent digital games I have been working on
+I have participated in multiple GMTK Game Jams using the Unity engine, and now I am developing Unity Games at Brock University.
 
-## University
-This is a collection of my projects created while attending Brock University
+## Latest Projects
 
-### Year ~ 1
-#### Tower of EreBor
-Created with a team of 4 students including myself, all of the programming was done by myself.
-All on the Godot Engine
+### RedSpace (Demo)
+#### Play as a Soviet Super Soldier and fight against enemies on the moon in this isometric shooter.
 
-[Download](https://drive.google.com/file/d/1ehP9EeWACbjU9ArXUP91Sym4CfYrZ4_D/view?usp=sharing)
+### Wizards of Erebor (Demo)
+#### Play as a wizard in this dungeon crawler experience, cast magic that can bounce off walls, and be careful not to hit yourself! Fight enemies and find ladders to get deeper into the dungeon. This game contains a multiplayer demo that is partially working at the moment.
 
+### Eurmainia: Death and Domain (Demo)
+#### Explore a fantasy world, recruit troops, and make a name for yourself on the continent of Eurmainia. 
 
-#### Age of Quests: Forests of Aldeon
-Created by myself using the Twine Engine. Some art assets are taken from the internet 
-
-[Download](Games/University/Year_1/Age_of_Quests_Forests_of_Aldeon/AgeofQuests_ForestsofAldeon.html)
-
-
-#### Celestial Space Academy II
-Created by myself on the Unity Engine, code provided by Niagara College
-
-[Download](https://drive.google.com/file/d/1d1_KhFsLb6TqzJ_bsEwkoP3brP5L23Pm/view?usp=sharing)
+[Download]()
+[![WATCH]()
+![image]()
 
 
-### Year ~ 2
-#### OEX
-Created by myself, forced to use only primitive shapes in Unity to create an effective level that will guide the player and convey a story.
-
-[![WATCH](https://img.youtube.com/vi/xpPi_Loji1s/0.jpg)](https://www.youtube.com/watch?v=xpPi_Loji1s)
-
-[Download](https://drive.google.com/file/d/1v5NFY_amigPQUnR0kRZgJcczjo6Z5Oul/view?usp=sharing)
-
-
-#### Klarisse's Keep
-Created by myself on the Unity Engine, textures are taken from the internet.
-In this project I learned how to design an environment, by working with Terrain, Trees, and Modeling. All modeling was done in 3DS Max. Most of the code was provided by Niagara College, I created some of my own scripts/adjusted scripts to make them work for my project.
-
-[![WATCH](https://i9.ytimg.com/vi_webp/pX8qDFkjq6s/mq1.webp?sqp=CLi-x50G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChLMA8=&rs=AOn4CLBex3i6jtbOZ4xA1ujyrZwZa9hzsQ)](https://youtu.be/pX8qDFkjq6s)
-
-[Download](https://drive.google.com/file/d/1C4vSpTElvAfYI3k25afIcyBi7gmRQuNB/view?usp=sharing)
-
-#### Pop Up Prince
-This is an upcoming game in my second year here at Brock. It's a pop up story book themed platforming game, where you must traverse your way through a kingdom being invaded by ink.
-
-## High School
-### Grade 11
-#### Celestial Space Academy
-Created by myself on the CMU Academy website for one of my Computer Science class projects, the game does not contain its original audio due to issues with the original sources and updates done to CMU, so I do not claim any of the replacement audio for this game as my own. This was my favourite game that came out of high school and i had so much fun developing it over the course of a month. This game taught me a lot about programming standards and set me up for success in University.
-
-![image](https://raw.githubusercontent.com/FlerBaDet/Game-Design-Portfolio/main/Images/CSA-TITLE.PNG)
-![image](https://raw.githubusercontent.com/FlerBaDet/Game-Design-Portfolio/main/Images/CSA-BTL.PNG)
-![image](https://raw.githubusercontent.com/FlerBaDet/Game-Design-Portfolio/main/Images/CSA-BOSS.PNG)
-
-[PLAY CSA](https://academy.cs.cmu.edu/sharing/oldLaceAnt0059)
 
